@@ -76,7 +76,7 @@
   JpaRepository
 
 ### DataBase Design
-![ER-BloggingAPI-DFD](ER-BloggingAPI-DFD.png)
+
 
 ### Data Structure used in your project
 
